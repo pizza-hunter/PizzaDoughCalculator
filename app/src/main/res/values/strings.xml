@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pizza Dough Calculator</string>
+    <string name="prompt_pizza_size">Select pizza size</string>
+    <string name="prompt_total_pizzas">Number of pizzas</string>
+    <string name="bread_flour">Bread flour</string>
+    <string name="plain_flour">Plain flour</string>
+    <string name="sea_salt">Sea salt (fine)</string>
+    <string name="yeast">Active dry yeast</string>
+    <string name="olive_oil">Olive oil</string>
+    <string name="water">Lukewarm tap water</string>
+    <string name="grams">g</string>
+    <string name="millilitres">ml</string>
+    <string name="placeholder">test</string>
+    <string name="btnText">Calculate</string>
+    <string-array name="pizzaSizes">
+        <item>9"</item>
+        <item>12"</item>
+        <item>15"</item>
+    </string-array>
+</resources>
